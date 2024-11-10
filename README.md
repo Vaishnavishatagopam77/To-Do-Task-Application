@@ -40,4 +40,17 @@ Task Prioritization: Allow users to set priorities for their tasks.
 Due Dates: Include an option to add due dates to tasks.
 
 Task Editing: Enable editing of existing tasks.
+# Output
+
+![image](https://github.com/user-attachments/assets/5c33220f-3dd2-4f36-b1d9-cc933a97c890)
+
+
+![image](https://github.com/user-attachments/assets/928af932-f431-4b8a-bb82-8e356cfcef48)
+
+
+![image](https://github.com/user-attachments/assets/7da97a2e-92f4-4ad7-9e82-86f402291972)
+
+
+![Screenshot 2024-11-10 183352](https://github.com/user-attachments/assets/3e8524cd-0413-450a-bd40-aef539ac7189)
+
 
